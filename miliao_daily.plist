@@ -17,7 +17,7 @@
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>com.xiaomi.miliao.dailybuild.ios8fix</string>
+                                <string>com.xiaomi.miliao.dailybuild</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
