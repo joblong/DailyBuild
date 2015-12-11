@@ -17,13 +17,13 @@
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>com.xiaomi.miliao.dailybuild.ios8fix</string>
+                                <string>com.xiaomi.miliao.dailybuild</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
-                                <string>MiliaoDaily-staging</string>
+                                <string>MiliaoDailyStaging</string>
                                 <key>version</key>
-                                <string>7.1.0</string>
+                                <string>7.4.0</string>
                                 <key>description</key>
                                 <string></string>
                         </dict>
